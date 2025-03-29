@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Game</string>
+    <string name="app_name">Juego de Adivinar</string>
+    <string name="guess_hint">Ingresa tu opción</string>
+    <string name="guess_button">Adivinar</string>
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="enter_number">Ingresa un número</string>
+    <string name="invalid_number">Ingresa un número válido entre 1 y 10</string>
+    <string name="correct_guess">Felicidades, adivinaste el número: %d</string>
+    <string name="wrong_guess">Incorrecto, intenta de nuevo con un número diferente</string>
+    <string name="number_updated">¡Número actualizado! Intenta adivinar el nuevo número.</string>
+    <string name="guess_prompt">Adivina un número entre 1 y 10!</string>
 </resources>
