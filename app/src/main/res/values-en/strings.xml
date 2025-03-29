@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="guess_hint">Enter your guess</string>
+    <string name="guess_button">Guess</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enter_number">Enter a number</string>
+    <string name="invalid_number">Enter a valid number between 1 and 10</string>
+    <string name="correct_guess">Congratulations, you guessed the number: %d</string>
+    <string name="wrong_guess">Incorrect, try again with a different number</string>
+    <string name="number_updated">Number updated! Try to guess the new number.</string>
+    <string name="guess_prompt">Guess a number between 1 and 10!</string>
+</resources>
